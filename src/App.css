@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.card-body-stars
+{
+  background-color:#FAFAFA;
+  height:50px;
+  width:200px;
+}
